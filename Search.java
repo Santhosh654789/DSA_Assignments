@@ -6,7 +6,7 @@ package DSA_Assignments;
 // X = 14
 // Output: yes
 
- public class Search {
+ public class Search{
     
     Node head;
 
